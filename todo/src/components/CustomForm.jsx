@@ -29,7 +29,7 @@ function CustomForm({addTask}){
  
             />
 
-            <label htmlFor="" className="label">enter task</label>
+            <label htmlFor="task" className="label">enter task</label>
             
            </div> 
            <button className="btn" aria-label="add task" type="submit"><AiOutlinePlus/></button>
